@@ -43,7 +43,7 @@ We propose to build a furniture system to serve as the platform for non-hierarch
 
 For Judd the experiential effects upon the viewer were of utmost importance; resulting in a physical grounding and an increased awareness of the present.
 
-The methods of Isaacs and Mari where series of steps that would result in object or tools for the orientation of everyday life. Both Isaacs and Mari discriminated their work not as commercially produced, but as recipes for the furniture and structures.
+The methods of Isaacs and Mari where series of steps that would result in object or tools for the orientation of everyday life. Both Isaacs and Mari discriminated their work not as commercially produced, but as recipes for the furniture and structures. 
 
 
 	The production of a system of furniture that can be made by hand out of simple materials 
