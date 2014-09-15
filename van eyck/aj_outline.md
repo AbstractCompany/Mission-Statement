@@ -15,6 +15,9 @@ Inspiration
 	"symmetrical co-presence" 
 	open source 
 	
+
+We will produce a speculative system that overlaps both architecture, art, and design that is focused on the shared production of knowledge.
+	
 	In front of the face, I always demand more of myself. (“Signature” 294 in Difficult Freedom: Essays on Judaism) 
 	. . . the face speaks to me and thereby invites me to a relation . . . (Totality and Infinity 198) 
 	We had dreamed of freedom and invented the thirty-year mortgage. KEN ISAACS.
@@ -39,11 +42,18 @@ The Project
 
 	In response to the sweeping instrumentalisation of all areas of life we propose to create a system for alternative ways of interacting. The basic equipment for life has been inscribed with ideology, and for these new modes of interaction we need new orientations of our lives. to this end we propose to create a system of furniture that will allow for these new modes. This system will also be inscribed with an ideology of opposition/antagonism. The best conceptual way to oppose the complex milieu is with the simple power of the hand. The only restrictions place on the system is that it must be made out of basic easy to obtain materials and be able to be constructed by hand by two people.  
 	
-We propose to build a furniture system to serve as the platform for non-hierarchical learning methods that would align with the conceptual practices of Donald Judd’s sculptures and furniture with the methods of Ken Isaacs and Enzo Mari. 
+We propose to build a furniture system to serve as the platform for non-hierarchical learning methods that would align with the conceptual practices of Donald Judd’s sculptures and furniture with the methods of designers Ken Isaacs and Enzo Mari. 
 
 For Judd the experiential effects upon the viewer were of utmost importance; resulting in a physical grounding and an increased awareness of the present.
 
-The methods of Isaacs and Mari where series of steps that would result in object or tools for the orientation of everyday life. Both Isaacs and Mari discriminated their work not as commercially produced, but as recipes for the furniture and structures. 
+The methods of Isaacs and Mari where series of steps that would result in object or tools for the orientation of everyday life. Both Isaacs and Mari discriminated their work not as commercially produced, but as recipes for the furniture and structures. This system for distribution is ideally suited to the merged digital and physical worlds that we now inhabit, and the open source approach to _____. 
+
+The furniture that we produce will be tested and utilized in a workshop focused on learning and application of the system. 
+
+Focused on not wrote learning but on the tactile acquisition of knowledge 
+
+the furniture will be focused on dialogue production or the production of situations focused on dialogue
+
 
 
 	The production of a system of furniture that can be made by hand out of simple materials 
