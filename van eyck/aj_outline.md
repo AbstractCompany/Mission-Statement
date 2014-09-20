@@ -66,23 +66,3 @@ the furniture will be focused on dialogue production or the production of situat
 
 
 
------------
-IN-LAB
-
-The open source in-lab
-	The subject of copyright and access butt into one another what does it mean for work to be free and how is the artist to be sustained 
-	
-	The application of new media modes to non-software models 
-
-
-
-
-The Instructions as tools in-lab
-	Since even before the 1970s the roll of instructions in art had already been established, but the fine arts where the last to catch on. 
-	Open work - 
-	What does it mean for the art to live in a hibernate state
-	
-
-
-
-

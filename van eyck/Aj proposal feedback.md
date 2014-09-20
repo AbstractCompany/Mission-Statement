@@ -10,7 +10,7 @@ we are interested in critiquing educational systems. specifically those that foc
 
 Both Enzo Mari and Ken Isaac provide examples of how alliterative ______ have provided new tools to think about problems of their day. They have enabled opposition to systems that seem insurmountable, specifically the cold-war era capitalist juggernaut. 
 
-[-WHAT ARE THE PROBLEMS OF THEIR DAY?]
+[-WHAT ARE THE PROBLEMS OF THEIR DAY?] the same ones we are dealing with today
 
 
 One of the central tools to their and many radical artist's practices is the dissemination of information through non-_______ means. the open source theories of information are both a sting (?) critique of the instamentialsion (?) of _____________(education) and a tool by which we can start to reorient education towards _________ with the goal of dismantling the present broken system. 
