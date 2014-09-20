@@ -1,5 +1,20 @@
 ____________________in-labs__________________________
-We encounter “systems” in all aspects of life, from environmental systems and capital systems to social systems; they are everywhere. During this in-lab we will examine systems theory as it relates directly to the individual through both cognitive and physical experiences. Through a series of three [I don't think we should say the exact number] discussion/reading/lecture groups focusing on political, educational, and structural systems, respectively we will examine how systems can result in radical changes in our built environments that then effect our cognitive sensibilities (or vice versa). [i think we should add a few other things like this] 
+We encounter “systems” in all aspects of life, from environmental systems and capital systems to social systems; they are everywhere. 
+
+
+
+During this in-lab we will examine systems theory as it relates directly to the individual through both cognitive and physical experiences. 
+
+
+
+Through a series of three [I don't think we should say the exact number] discussion/reading/lecture groups focusing on political, educational, and structural systems, respectively we will examine how systems can result in radical changes in our built environments that then effect our cognitive sensibilities (or vice versa). 
+
+
+ [I don't think we should say the exact number]
+|||||THE NUMBER HAS TO DO WITH THE TOPICS WE EXPLORE||||||
+
+[i think we should add a few other things like this]
+|||||A FEW OTHER THINGS LIKE WHAT?|||||||| 
 
 
 |||||THESE ARE SOME NOTES I THINK MIGHT BE HELPFUL FOR FORMING THIS IDEA|||||||
