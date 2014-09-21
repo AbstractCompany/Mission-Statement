@@ -12,9 +12,11 @@ Through a series of three [I don't think we should say the exact number] discuss
 
  [I don't think we should say the exact number]
 |||||THE NUMBER HAS TO DO WITH THE TOPICS WE EXPLORE||||||
+[the way the call is written it seems like we are laying out the ideas that the in-lab would seek to cover not the practical things like the number]
 
 [i think we should add a few other things like this]
-|||||A FEW OTHER THINGS LIKE WHAT?|||||||| 
+|||||A FEW OTHER THINGS LIKE WHAT?||||||||
+[i was saying we should start a list] 
 
 
 |||||THESE ARE SOME NOTES I THINK MIGHT BE HELPFUL FOR FORMING THIS IDEA|||||||
