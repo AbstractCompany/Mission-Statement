@@ -4,17 +4,19 @@
 
 
 
-We propose to design a furniture system that will become the platform for non-hierarchal learning workshops that would allow for the distribution of knowledge of systems theory and relevant art practices, visually, physically, and digitally. 
+We propose to design a furniture system that will become the platform for non-hierarchal learning workshops that would allow for the distribution of knowledge of systems theory and relevant art practices visually, physically, and digitally. 
 
 
 [i think we should add in art to this mix because i think it is strongest with all three]
 |||||OK BUT HOW, “THAT RESULT IN ART AS ACTION?”|||||
 [i am confused as what you mean as art as action?]
+||i don’t know either i was just trying to figure out how to make it clear that we are interested in all three.|||
 
 
 Inspired by the interconnected nature of design and education seen in the work of Enzo Mari and Ken Isaacs, we pose the question, “How can education and spatial relationships inform art practices?”
 
 [I think I have been saying that they are art practices not simply inform them. The thing that they inform is the viewers life and that is how they have an impact. right?]
+|||yeah i agree. i was just trying to use the more art more :\ |||||
 
 
 Both Enzo Mari and Ken Isaac saw their work as informative, capable of expressing systems which the user is engulfed in, specifically the capitalist agenda of the cold-war era. 
@@ -31,15 +33,17 @@ By disseminating the instructions for constructing their designs they had hoped 
 
 
 
-We aim to creat with simplicity, utility, and durability. 
+We aim to create with simplicity, utility, and durability. 
 [I changed this to create because design felt like we where closing off the art side]
+|||perfect|||
 
 Our furniture system will be easy to build by hand from readily available materials. 
 
 
 These furniture pieces will act together to inform the user of the systems in which they are a part of (political and economical) by inserting them directly into another (structural) system. 
 
-[i am not exactly sure if the reason that this makes them aware is that they are suddenly in another system. But i think that the whole group is taking a part systems and reorganizing them in the workshop which then hopeful would ennoble them to do the same in their day to day lives.]
+[i am not exactly sure if the reason that this makes them aware is that they are suddenly in another system. But i think that the whole group is taking a part systems and reorganizing them in the workshop which then hopefully would enable them to do the same in their day to day lives.]
+||||i think i was saying in the way that mari would, that the practice of creating the furniture and using it would educate them of the political and economic systems through the structural system that is the furniture…. or maybe that just sounds dumb|||
 
 
 This idea aligns with Ken Isaacs’s methods to allow for students to become “agents of synthesis by learning through praxis rather than passive digestion.” 
@@ -48,6 +52,7 @@ This idea aligns with Ken Isaacs’s methods to allow for students to become “
 Once the form of the furniture system has been designed and realized we will create an instruction manual that will be freely available through digital downloads on an on-going blog. 
 
 [i think i made this comment before but i think that the manual should come after the workshop and a second phase of ideation on the system]
+|||oooh i misunderstood you before i thought you wanted two manuals…opps||||
 
 This manual will discuss the construction as well as the intentions of the system, becoming another platform for distribution and education. 
 
@@ -70,7 +75,10 @@ In this workshop we will challenge the participants’ interactions with space, 
 The workshop will contain a short talk and a group discussion followed by dispersion into smaller units to explore and develop specific utilizations of the furniture concurrent with these ideas. 
 
 
-During the course of the workshop we will examine the push and pull between the furniture and the participants to understand necessary modifications in our behavior to adapt to the built environment and the ability for us to adapt furniture for a social environment. [i am not sure if we need to say this]
+During the course of the workshop we will examine the push and pull between the furniture and the participants to understand necessary modifications in our behavior to adapt to the built environment and the ability for us to adapt furniture for a social environment. 
+
+[i am not sure if we need to say this] 
+|||say what exactly?|||
 
 
 The result of the systems examination workshop will be on public display at Van Eyck and discussed critically through the publication of a workshop manual, that discusses the furniture construction and instructional methods for a reproduction of the workshop. 
